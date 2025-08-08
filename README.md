@@ -25,16 +25,7 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🚦 [Smart Ambulance Traffic Signal System](https://github.com/aarush-sharma/Smart-Ambulance-Traffic-Signal) – IoT + Flutter + Maps
-- 🤖 [Voice-based AI Assistant](https://github.com/aarush-sharma/Jarvis-AI-Assistant)
-- 📊 [AI Resume Ranker](https://github.com/aarush-sharma/Resume-Ranker)
-
----
-
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarush-sharma-675305329/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aarush_here)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sudharjaaarushhh/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-
